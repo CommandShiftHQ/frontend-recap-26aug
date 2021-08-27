@@ -1,0 +1,160 @@
+[
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "591f98703b90f7150a19c147",
+    "__v": 0,
+    "text": "After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "5c72d9b651021f001415f00c",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2019-02-24T17:51:50.800Z",
+    "user": "5c6fd96df4256a001498a73f",
+    "text": "Cats have been domesticated for around 4,000 years. While they were once valued for their hunting abilities, they are now valued for their companionship and loving behavior.",
+    "source": "user",
+    "__v": 0,
+    "used": false
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "591f98803b90f7150a19c206",
+    "__v": 0,
+    "text": "Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "590b9d90229d260020af0b06",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypt's pharaohs.",
+    "__v": 0,
+    "source": "user",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-02-10T21:20:03.480Z",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "5c35531e8e0b8d00148d45e8",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2019-01-09T01:49:18.342Z",
+    "user": "5a9ac18c7478810ea6c06381",
+    "text": "If you grow your own catnip, here's how to prepare it for kitty's enjoyment: Cut several stalks of the plant from the base. Hang them upside down in a dark and dry room for several weeks. Then cut the catnip into small pieces, rub some on your cat's favorite toys or scratching post, and let the games begin!",
+    "source": "user",
+    "__v": 0,
+    "used": false
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "58e00ba00aac31001185edfa",
+    "user": "58e007480aac31001185ecef",
+    "text": "When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you.",
+    "__v": 0,
+    "source": "user",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-02-22T21:20:03.364Z",
+    "used": false
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "591f98783b90f7150a19c1b5",
+    "__v": 0,
+    "text": "Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-01-04T01:10:54.673Z",
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "591f98883b90f7150a19c2a7",
+    "__v": 0,
+    "text": "A cat can sprint at about thirty-one miles per hour.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-04-19T20:20:03.190Z",
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  },
+  {
+    "status": {
+      "verified": null,
+      "sentCount": 0
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "5fd56cd8b3fb8b001735716f",
+    "user": "5fd56c8db3fb8b0017357163",
+    "text": "Cats have 230 bones, while humans only have 206.",
+    "createdAt": "2020-12-13T01:22:32.551Z",
+    "updatedAt": "2020-12-13T01:22:32.551Z",
+    "__v": 0
+  },
+  {
+    "status": {
+      "verified": true,
+      "sentCount": 1
+    },
+    "type": "cat",
+    "deleted": false,
+    "_id": "591f98783b90f7150a19c1ad",
+    "__v": 0,
+    "text": "The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air.",
+    "source": "api",
+    "updatedAt": "2020-08-23T20:20:01.611Z",
+    "createdAt": "2018-04-20T20:27:41.961Z",
+    "used": false,
+    "user": "5a9ac18c7478810ea6c06381"
+  }
+]
