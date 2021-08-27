@@ -1,13 +1,77 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+/* Home page css */
+
+/* for body text */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+/* for neon font */
+@import url("https://fonts.googleapis.com/css2?family=Train+One&display=swap");
+
+.home {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: whitesmoke;
+  background-image: radial-gradient(
+    circle at center,
+    #460b60,
+    #290638,
+    #15032a,
+    #0f0021
+  );
+}
+
+/* code for neon font */
+.home-btn {
+  border: none;
+  border-radius: 6px;
+  padding: 1rem;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+#click-here {
+  font-family: "Train One", cursive;
+  font-size: 40pt;
+  filter: blur(0.3px);
+}
+
+.neon {
+  font-family: neon;
+  font-size: 20pt;
+  animation: glow 1s linear infinite;
+  -moz-animation: glow 1s linear infinite;
+  -webkit-animation: glow 1s linear infinite;
+  -o-animation: glow 1s linear infinite;
+}
+
+@keyframes glow {
+  50% {
+    text-shadow: 0 0 0.5vw #8f2626, 0 0 2vw #ff0000, 0 0 3vw #ff3366,
+      0 0 3vw #fff, 0 0 5vw #fed641, 0 0 3vw #fed641, 0 0 2vw #ff69b4,
+      0 0 0.5vw #ff69b4;
+    color: #ff6347;
+  }
+  0%,
+  100% {
+    text-shadow: 0 0 0.5vw #e01c1c, 0 0 1vw #e01c1c, 0 0 2vw #ff3366,
+      0 0 3vw #ff3366, 0 0 5vw #ff3366, 0 0 2vw #ff3366, 0 0 1vw #ff3366,
+      0 0 0.5vw #8f2626;
+    color: #ff3366;
+    -webkit-text-stroke: 0.1px #ff69b4;
+  }
 }

@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatFacts renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <p
+      data-testid="catFact"
+    >
+      After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have been domesticated for around 4,000 years. While they were once valued for their hunting abilities, they are now valued for their companionship and loving behavior.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypt's pharaohs.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      If you grow your own catnip, here's how to prepare it for kitty's enjoyment: Cut several stalks of the plant from the base. Hang them upside down in a dark and dry room for several weeks. Then cut the catnip into small pieces, rub some on your cat's favorite toys or scratching post, and let the games begin!
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      A cat can sprint at about thirty-one miles per hour.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have 230 bones, while humans only have 206.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air.
+    </p>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <p
+      data-testid="catFact"
+    >
+      After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have been domesticated for around 4,000 years. While they were once valued for their hunting abilities, they are now valued for their companionship and loving behavior.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats can predict earthquakes. We humans are not 100% sure how they do it. There are several different theories.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Evidence suggests domesticated cats have been around since 3600 B.C., 2,000 years before Egypt's pharaohs.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      If you grow your own catnip, here's how to prepare it for kitty's enjoyment: Cut several stalks of the plant from the base. Hang them upside down in a dark and dry room for several weeks. Then cut the catnip into small pieces, rub some on your cat's favorite toys or scratching post, and let the games begin!
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      When cats leave their poop uncovered, it is a sign of aggression to let you know they don't fear you.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have 32 muscles that control the outer ear (compared to human's 6 muscles each). A cat can rotate its ears independently 180 degrees, and can turn in the direction of sound 10 times faster than those of the best watchdog.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      A cat can sprint at about thirty-one miles per hour.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      Cats have 230 bones, while humans only have 206.
+    </p>
+    <p
+      data-testid="catFact"
+    >
+      The catnip plant contains an oil called hepetalactone which does for cats what marijuana does to some people. Not all cats react to it those that do appear to enter a trancelike state. A positive reaction takes the form of the cat sniffing the catnip, then licking, biting, chewing it, rub & rolling on it repeatedly, purring, meowing & even leaping in the air.
+    </p>
+  </div>
+</DocumentFragment>
+`;
